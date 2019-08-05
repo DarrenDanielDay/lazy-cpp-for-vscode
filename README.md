@@ -26,4 +26,4 @@
   * C/C++ (发布者：Microsoft)
   * Visual Studio IntelliCode (发布者：Microsoft)
 
-[darrendanielday]: Darren_Daniel_Day@hotmail.com
+[darrendanielday]: mailto:Darren_Daniel_Day@hotmail.com
